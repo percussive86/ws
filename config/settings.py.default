@@ -1,0 +1,1 @@
+DBINFO = "postgresql://user:passwd@hostname:port/db"

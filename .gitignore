@@ -1,0 +1,17 @@
+# Build Files
+build/*.tgz
+
+# Config files
+config/settings.py
+
+# virture env
+_venv
+
+# logs
+logs
+
+# Python
+__pycache__
+
+# Pycharm project files
+.idea
